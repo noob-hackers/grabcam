@@ -53,6 +53,11 @@ $ ls
 ```
 $ bash grabcam.sh
 ```
+to see captured images >>>
+
+$ ls
+
+$ mv (image name with .png) /sdcard
 
 * Now you need internet connection to continue further process...
 
