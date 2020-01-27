@@ -59,6 +59,8 @@ $ ls
 
 $ mv (image name with .png) /sdcard
 
+Now go and chek your gallery for victim image...
+
 * Now you need internet connection to continue further process...
 
 * You can select any option by clicking on your keyboard
