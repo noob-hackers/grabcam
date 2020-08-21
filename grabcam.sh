@@ -7,6 +7,7 @@
 clear
 termux-setup-storage
 pkg install php -y
+pkg install wget -y
 clear
 trap 'printf "\n";stop' 2
 
