@@ -1,9 +1,14 @@
 <h1 align="center">grabcam v1.1</h1>
 <p align="center">
-      A camera hacking by link tool
 </p>
+   
+ *** A simple  tool which can make woonders happen ***
+  
+grabacam has the same function same as a powerfull payload .... 
 
-## ?? ***About grabcam***:
+            "SMALL BUT DYNAMIC"   
+            
+## About grabcam ###:
 
 grabcam is a bash based script which is officially made for termux from this tool can hack you victims camera by simple offer page. This tool works on both rooted Android device and Non-rooted Android device.
 
@@ -15,7 +20,7 @@ grabcam is a bash based script which is officially made for termux from this too
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-### ?? ***grabcam is available for***:
+###Grabcam is available for###:
 
 * Termux
 
