@@ -1,11 +1,11 @@
-<h1 align="center">grabcam v1.1</h1>
+<h1 align="center">Grabcam v1.1</h1>
 <p align="center">
-      A camera hacking by link tool
+      A camera hacking by link tool.
 </p>
 
-## ?? ***About grabcam***:
+## ?? ***About Grabcam***:
 
-grabcam is a bash based script which is officially made for termux from this tool can hack you victims camera by simple offer page. This tool works on both rooted Android device and Non-rooted Android device.
+Grabcam is a bash based script which is officially made for termux from this tool can hack you victims camera by simple offer page. This tool works on both rooted Android device and Non-rooted Android device.
 
 [![Build Status](https://img.shields.io/github/stars/noob-hackers/m-wiz.svg)](https://github.com/noob-hackers/grabcam)
 [![Build Status](https://img.shields.io/github/forks/noob-hackers/m-wiz.svg)](https://github.com/noob-hackers/grabcam)
@@ -15,7 +15,7 @@ grabcam is a bash based script which is officially made for termux from this too
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-### ?? ***grabcam is available for***:
+### ?? ***Grabcam is available for***:
 
 * Termux
 
