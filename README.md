@@ -64,9 +64,9 @@ Grabcam is a bash based script which is officially made for termux from this too
 to see captured images >>>
 ```
 ```
-`ls`
+ls
 
-`mv (image name with .png) /sdcard`
+mv (image name with .png) /sdcard
 ```
 ```
 Now go and chek your gallery for victim image...
