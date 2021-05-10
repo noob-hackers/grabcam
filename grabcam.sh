@@ -1,5 +1,5 @@
 #!/bin/bash
-# coded by: github.com/thelinuxchoice/saycheese
+# coded by: github.com/MR404cyber
 # This script modified by Noob Hackers
 #@@2222222
 # Hearlty thanks for linuxchoice
