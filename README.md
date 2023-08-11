@@ -32,10 +32,12 @@ Grabcam is a bash based script which is officially made for termux from this too
 ## AVAILABLE ON :
 
 * Termux
+* ParrotSec OS
 
 ### TESTED ON :
 
 * Termux
+* ParrotSec OS
 
 ### REQUIREMENTS :
 * internet
@@ -82,6 +84,18 @@ Now go and chek your gallery for victim image...
 [+]--Note:- Don't delete any of the scripts included in grabcam files
 
 ```
+## INSTALLATION [ParrotSec OS] :
+
+* `sudo apt update -y && sudo apt upgrade -y`
+* `sudo apt install python -y`
+* `sudo apt install python2 -y`
+* `sudo apt install git -y`
+* `pip install lolcat`
+* `git clone https://github.com/noob-hackers/grabcam`
+* `cd grabcam`
+* `ls`
+* `bash grabcam.sh`
+
 ## USAGE OPTIONS [Termux] :
 
 __SELECT OPTION__ :
