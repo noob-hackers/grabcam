@@ -1,0 +1,3 @@
+cd gradcam 
+chmod +x
+bash
